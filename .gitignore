@@ -12,6 +12,7 @@
 **/*.pyc
 **/.ipynb_checkpoints
 **/*.lprof
+**/rets.*
 
 ## Core latex/pdflatex auxiliary files:
 **/*.lof
